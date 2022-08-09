@@ -12,6 +12,7 @@
 
 ## Compilation
 - The program can be compiled using the following command:
+
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
 
 ## Usage
